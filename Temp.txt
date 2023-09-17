@@ -2,3 +2,4 @@
 2. 라마바
 3. C
 4. init for some feature
+5. Deinit
